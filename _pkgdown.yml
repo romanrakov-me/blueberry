@@ -1,0 +1,26 @@
+url: ~
+
+template:
+  bootstrap: 5
+  math-rendering: katex # for better math rendering
+  light-switch: true
+
+navbar:
+  structure:
+    left: [home, articles, reference, news]
+    right: [search, github, lightswitch]
+  components:
+    home:
+      text: "Home"
+      href: index.html
+    articles:
+      text: "Vignettes"
+      menu:
+        - text: "AIPW vs. RA and IPW"
+        - text: "Theory in action"
+        - text: "Application 401(k) - average effects"
+        - text: "Application 401(k) - heterogeneous effects"
+    reference:
+      text: "📖 Reference"
+      href: reference/index.html
+

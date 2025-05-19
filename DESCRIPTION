@@ -1,0 +1,18 @@
+Package: blueberry
+Title: ML Algorythms For Assignment 2 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Roman", "Rakov", , "roman.rakov@student.uni-tuebingen.de", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package implelements Meta-learners as well as some convenience functions.
+             It was designed to accompany the 2nd Assignment in Causal Machine Learning course (Prof. M.C. Knaus).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    grf
+Suggests: 
+    pkgdown
