@@ -1,0 +1,34 @@
+url: ~
+template:
+  bootstrap: 5
+  math-rendering: katex
+  light-switch: yes
+navbar:
+  structure:
+    left:
+    - home
+    - articles
+    - reference
+    - news
+    right:
+    - search
+    - github
+    - lightswitch
+  components:
+    home:
+      text: Home
+      href: index.html
+    articles:
+      text: Vignettes
+      menu:
+      - text: AIPW vs. RA and IPW
+        href: articles/NB_OutcomeWeights_AIPW_401k.html
+      - text: Theory in action
+      - text: Application 401(k) - average effects
+      - text: Application 401(k) - heterogeneous effects
+    reference:
+      text: "\U0001F4D6 Reference"
+      href: reference/index.html
+deploy:
+  destination: gh-pages
+
