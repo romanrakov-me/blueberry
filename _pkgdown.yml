@@ -22,6 +22,7 @@ navbar:
       text: Vignettes
       menu:
       - text: AIPW vs. RA and IPW
+        href: articles/NB_OutcomeWeights_AIPW_401k.html
       - text: Theory in action
       - text: Application 401(k) - average effects
       - text: Application 401(k) - heterogeneous effects
