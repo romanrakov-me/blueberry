@@ -3,7 +3,7 @@ pkgdown: 2.1.2
 pkgdown_sha: ~
 articles:
   NB_OutcomeWeights_AIPW_401k: NB_OutcomeWeights_AIPW_401k.html
-last_built: 2025-05-20T10:35Z
+last_built: 2025-05-20T15:32Z
 urls:
-  reference: https://romarakov.github.io/blueberry/reference
-  article: https://romarakov.github.io/blueberry/articles
+  reference: https://romanrakov-me.github.io/blueberry/reference
+  article: https://romanrakov-me.github.io/blueberry/articles
