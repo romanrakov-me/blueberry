@@ -29,6 +29,4 @@ navbar:
     reference:
       text: "\U0001F4D6 Reference"
       href: reference/index.html
-deploy:
-  destination: gh-pages
 
