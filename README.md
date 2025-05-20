@@ -21,3 +21,4 @@ You can install the package from GitHub using the `devtools` package:
 
 ```R
 devtools::install_github("yourusername/yourrepository")
+A line I wrote on my local computer  
